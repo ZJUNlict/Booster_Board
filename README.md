@@ -4,7 +4,7 @@ The booster board is used to charge capacitors and discharge via shoot and chip 
 
 ![](./Images/Booster_Board_2D.PNG)
 
-![](./Images/Booster_Board_3D.PNG)
+![](./Images/Booster_Board_3D_Shrinked.PNG)
 
 The main features are:
 
@@ -15,6 +15,6 @@ The main features are:
 
 The photos of the booster board are shown below as references. 
 
-![](./Images/Booster_Board_Image_Front.jpg)
+![](./Images/Booster_Board_Image_Front_Shrinked.png)
 
-![](./Images/Booster_Board_Image_Back.jpg)
+![](./Images/Booster_Board_Image_Back_Shrinked.png)
