@@ -1,6 +1,6 @@
 # ZJUNlict Booster Board Description
 
-The booster board is used to charge capacitors and discharge via shoot and chip coils. The 2D and 3D design view are shown below. (The board is designed using ![Altium Designer](https://www.altium.com/altium-designer/) 17.1)
+The booster board is used to charge capacitors and discharge via shoot and chip coils. The 2D and 3D design view are shown below. (The board is designed using [Altium Designer](https://www.altium.com/altium-designer/) 17.1)
 
 ![](./Images/Booster_Board_2D.PNG)
 
